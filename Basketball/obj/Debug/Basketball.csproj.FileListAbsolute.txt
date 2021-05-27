@@ -1,0 +1,8 @@
+E:\MyPrograms\C#\Basketball\bin\Debug\Basketball.exe
+E:\MyPrograms\C#\Basketball\bin\Debug\Basketball.pdb
+E:\MyPrograms\C#\Basketball\obj\Debug\Basketball.frmMain.resources
+E:\MyPrograms\C#\Basketball\obj\Debug\Basketball.Properties.Resources.resources
+E:\MyPrograms\C#\Basketball\obj\Debug\Basketball.csproj.GenerateResource.cache
+E:\MyPrograms\C#\Basketball\obj\Debug\Basketball.csproj.CoreCompileInputs.cache
+E:\MyPrograms\C#\Basketball\obj\Debug\Basketball.exe
+E:\MyPrograms\C#\Basketball\obj\Debug\Basketball.pdb
